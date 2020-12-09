@@ -1,6 +1,6 @@
 # Hey 👋🏻
 
-<img style="margin: 0 auto" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" height="200">
+<img style="display: block; margin: 0 auto;" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" height="200">
 
 My name is **Jhonata Santos**, I'm from Brazil 🇧🇷 I'm A Software Quality Engineer, that has been working as 
 Quality Assurance Engineer and Test Automation since 2015  🧑🏻‍💻 
