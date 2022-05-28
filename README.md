@@ -2,6 +2,7 @@
 
 ### I'm a technology lover who loves to test. I'm also restless, curious, always looking for new knowledge and a fan of good music, being among friends and traveling! 🚆
 
+<br/>
 
 <div> 
   <a href="https://www.instagram.com/_jhoonsantoos/" target="_blank">
