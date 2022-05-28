@@ -1,6 +1,6 @@
 ## Hello I'm Jhonata Santos, welcome to my profile! :love_you_gesture:	
 
-I'm a technology lover who loves to test. I'm also restless, curious, always looking for new knowledge and a fan of good music, being among friends and traveling! 🚆
+Passionate about programming, technology and software quality who loves to test. I'm also restless, curious, always looking for new knowledge and a fan of good music, being among friends and traveling! 🚆
 
 <br/>
 
@@ -39,7 +39,3 @@ I'm a technology lover who loves to test. I'm also restless, curious, always loo
 </div>
 
 </br>
-
-Passionate about programming, technology and software quality!
-  
-
