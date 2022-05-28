@@ -1,4 +1,4 @@
-## Olá eu sou Jhonata Santos! :love_you_gesture:	
+## Hello I'm Jhonata Santos, welcome to my profile! :love_you_gesture:	
 
 <div> 
   <a href="https://www.instagram.com/_jhoonsantoos/" target="_blank">
@@ -21,7 +21,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonata-santos&layout=compact&langs_count=7&theme=react"/>
 </a>
 
-## Tecnologias que eu uso no meu dia
+## Main technologies I use in my daily life
 
 <div style="display: inline_block"><br>
   <img align="center" alt="jhonata-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
@@ -36,7 +36,6 @@
 
 </br>
 
-Apaixonado por programação, tecnologia e qualidade de software!
-
+Passionate about programming, technology and software quality!
   
 
