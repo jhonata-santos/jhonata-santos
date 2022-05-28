@@ -46,3 +46,7 @@ Passionate about programming, technology and software quality who loves to test.
 </div>
 
 </br>
+
+<img src="https://komarev.com/ghpvc/?username=jhonata-santos" alt="jhonata-santos" />
+
+</br>
