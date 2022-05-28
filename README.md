@@ -1,5 +1,7 @@
 ## Hello I'm Jhonata Santos, welcome to my profile! :love_you_gesture:	
 
+### I'm a technology lover who loves to test. I'm also restless, curious, always looking for new knowledge and a fan of good music, being among friends and traveling! 🚆
+
 <div> 
   <a href="https://www.instagram.com/_jhoonsantoos/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
