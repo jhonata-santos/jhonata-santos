@@ -9,7 +9,7 @@ Passionate about programming, technology and software quality who loves to test.
   <img src="https://img.icons8.com/color/48/000000/usa-circular.png" height="30" width="30" title="English"/>
 </div>
 
-</br>
+<br>
 
 <div> 
   <a href="https://www.instagram.com/_jhoonsantoos/" target="_blank">
@@ -29,7 +29,7 @@ Passionate about programming, technology and software quality who loves to test.
   </a>
 </div>
 
-<br/>
+<br>
 
 <a href="https://github.com/jhonata-santos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonata-santos&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -49,8 +49,7 @@ Passionate about programming, technology and software quality who loves to test.
   <img align="center" alt="jhonata-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
-</br>
+<br>
+
 
 <img src="https://komarev.com/ghpvc/?username=jhonata-santos" alt="jhonata-santos" />
-
-</br>
