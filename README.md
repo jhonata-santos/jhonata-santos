@@ -4,6 +4,15 @@ Passionate about programming, technology and software quality who loves to test.
 
 <br/>
 
+### Languages
+
+<div style="display: inline-block">
+  <img src="https://img.icons8.com/color/48/000000/brazil-circular.png" height="30" width="30" title="Português"/>
+  <img src="https://img.icons8.com/color/48/000000/usa-circular.png" height="30" width="30" title="English"/>
+</div>
+
+</br>
+
 <div> 
   <a href="https://www.instagram.com/_jhoonsantoos/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
