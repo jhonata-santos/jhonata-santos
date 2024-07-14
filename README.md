@@ -36,7 +36,7 @@ Passionate about programming, technology and software quality who loves to test.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonata-santos&layout=compact&langs_count=7&theme=react"/>
 </a>
 
-## Main technologies I use in my daily life
+## Main technologies that I know and use in my daily life
 
 <div style="display: inline_block"><br>
   <img align="center" alt="jhonata-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
