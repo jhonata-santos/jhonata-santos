@@ -1,6 +1,6 @@
 ## Hello I'm Jhonata Santos, welcome to my profile! :love_you_gesture:	
 
-Passionate about programming, technology and software quality who loves to test. I'm also restless, curious, always looking for new knowledge and a fan of good music, being among friends and traveling! 🚆
+I am a software quality specialist and developer with a proactive and curious approach. Passionate about exploring new technologies, listening to music, traveling, and enjoying pleasant moments with friends, always seeking personal and professional growth. 
 
 ### Languages
 
@@ -35,14 +35,33 @@ Passionate about programming, technology and software quality who loves to test.
 ## Main technologies that I know and use in my daily life
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="jhonata-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
-  <img align="center" alt="jhonata-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
-  <img align="center" alt="jhonata-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img align="center" alt="jhonata-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img align="center" alt="jhonata-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" />
-  <img align="center" alt="jhonata-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-  <img align="center" alt="jhonata-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
-  <img align="center" alt="jhonata-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  Backend:
+  <img align="center" src="https://skillicons.dev/icons?i=dotnet,python,ruby,rails,nodejs" />
+  <br><br>
+  Frontend:
+  <img align="center" src="https://skillicons.dev/icons?i=js,html,css,jquery" />
+  <br><br>
+  Automation:
+  <img align="center" src="https://skillicons.dev/icons?i=cypress,gherkin,selenium" />
+  <br><br>
+  CI/CD:
+  <img align="center" src="https://skillicons.dev/icons?i=githubactions,jenkins" />
+  <br><br>
+  GIT:
+  <img align="center" src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" />
+  <br><br>
+  Database:
+  <img align="center" src="https://skillicons.dev/icons?i=dynamodb,mongodb,mysql,postgres" />
+  <br><br>
+  Containers:
+  <img align="center" src="https://skillicons.dev/icons?i=docker,kubernetes" />
+  <br><br>
+  Monitoring:
+  <img align="center" src="https://skillicons.dev/icons?i=grafana,prometheus" />
+  <br><br>
+  Messages:
+  <img align="center" src="https://skillicons.dev/icons?i=rabbitmq,kafka" />
+  <br><br>
 </div>
 
 <br>
